@@ -32,7 +32,7 @@ I use GitHub to document my learning journey, showcase my projects, and continuo
 - Visual Studio Code
 ---
 ## Featured Projects
-I'm currently building projects that wil be showcased here as I continue my software engineering journey.
+I'm currently building projects that will be showcased here as I continue my software engineering journey.
 Stay tuned!
 ---
 ## Connect With Me
