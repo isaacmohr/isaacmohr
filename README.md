@@ -42,7 +42,7 @@ Stay tuned!
 > **"Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee withersoever thou goest."**
 > *- Joshua 1:9*
 ---
-### Thanks for visiting my profile!
+### Thanks for visiting my profile! :star:
 <!--
 **isaacmohr/isaacmohr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
