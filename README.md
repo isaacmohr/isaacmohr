@@ -4,21 +4,21 @@
 I'm a **Computer Science student** with a passion for software engineering and continuous learning. I'm currently building a strong foundation in programming, data structures, algorithms, and software development while working toward a career as a Software Engineer. 
 I use GitHub to document my learning journey, showcase my projects, and continuously improve my skills through hands-on development.
 ---
-## Currently Learning
+## 🚀 Currently Learning
 - **Java**
 - **Data Structures & Algorithms**
 - **Object-Oriented Programming (OOP)**
 - **Git & Github**
 - **LeetCode**
 ---
-## Current Goals
+## 🎯 Current Goals
 - Build real-world software projects
 - Strengthen my problem-solving skills
 - Earn a software engineering internship
 - Contribute to open-source projects
 - Continue growing as a developer
 ---
-## Technologies & Tools
+## ⚒️ Technologies & Tools
 ### Languages
 - **Java**(Currently Learning)*
 - HTML *(Coming Soon)*
@@ -30,15 +30,16 @@ I use GitHub to document my learning journey, showcase my projects, and continuo
 - GitHub
 - IntelliJ IDEA
 - Visual Studio Code
+- Intel Quartus Prime
 ---
-## Featured Projects
+## 🌟Featured Projects
 I'm currently building projects that will be showcased here as I continue my software engineering journey.
 Stay tuned!
 ---
-## Connect With Me
+## 📫 Connect With Me
 - **LinkedIn** *(www.linkedin.com/in/isaacmohr29)*
 ---
-## Favorite Verse
+## ✝️ Favorite Verse
 > **"Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee withersoever thou goest."**
 > *- Joshua 1:9*
 ---
